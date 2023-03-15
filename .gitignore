@@ -1,4 +1,4 @@
-node_modules/
 images/
 tests/
 config/
+/node_modules
